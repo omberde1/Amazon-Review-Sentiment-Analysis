@@ -16,4 +16,4 @@ This project analyzes Amazon reviews to predict whether the sentiment of a revie
 ## How to Run
 1. Clone the repository.
 2. Install the necessary libraries (eg. pandas, nltk, seaborn, matplotlib).
-3. Open and run the Jupyter notebook file (`SentimentAnalysis.ipynb`).
+3. Open and run the Jupyter notebook file (`amazon_sentiment_analysis.ipynb`).
